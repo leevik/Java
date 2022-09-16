@@ -1,2 +1,2 @@
 # Java
-Java harjoittelu
+Kansioiden nimeämisestä käy selväksi mitä olen javalla harjoitellut.
