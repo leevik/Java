@@ -1,2 +1,2 @@
 # Java
-Kansioiden nimeämisestä käy selväksi mitä olen javalla harjoitellut.
+Practice of Java's fundamentals
